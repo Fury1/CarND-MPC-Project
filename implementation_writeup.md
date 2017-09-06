@@ -1,5 +1,5 @@
 [//]: # (Image References)
-[image1]: CarND-MPC-Project/update_equations.PNG
+[image1]: update_equations.PNG
 
 ---
 ## Model

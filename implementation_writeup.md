@@ -1,5 +1,5 @@
 [//]: # (Image References)
-[image1]: ./update_equations.png
+[image1]: ../update_equations.png
 
 ---
 ## Model
